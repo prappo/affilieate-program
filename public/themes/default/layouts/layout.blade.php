@@ -472,6 +472,8 @@
                                                                            size="40"
                                                                            placeholder="Email*"
                                                                            id="frm_INPUT_104"/>
+                                                                    <input type="hidden" name="type" value="guest">
+                                                                    <input type="hidden" name="status" value="pending">
 
                                                                 </span>
                                                                 <p id="frm_P_105">
